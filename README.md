@@ -8,3 +8,7 @@ Just use it in your GitHub actions Yaml file like this:
     steps:
       - uses: getsentry/action-clickhouse-in-ci@v1
 ```
+
+## Note
+
+This is used by the test suite of the Sentry Python SDK.
