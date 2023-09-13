@@ -12,3 +12,7 @@ Just use it in your GitHub actions Yaml file like this:
 ## Note
 
 This is used by the test suite of the Sentry Python SDK.
+
+## License
+
+This repository uses the [Apache License Version 2.0](/LICENSE).
