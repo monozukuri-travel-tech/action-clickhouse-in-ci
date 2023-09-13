@@ -1,0 +1,6 @@
+name: 'Run ClickHouse'
+description: 'Run ClickHouse'
+
+runs:
+  using: 'docker'
+  image: 'Dockerfile'

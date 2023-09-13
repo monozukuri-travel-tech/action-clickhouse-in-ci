@@ -1,2 +1,2 @@
 # action-clickhouse-in-ci
-Run Clickhouse in GitHub Actions
+An action that runs ClickHouse on the default ports in GitHub Actions.
