@@ -1,5 +1,5 @@
-name: 'Run ClickHouse'
-description: 'Run ClickHouse'
+name: 'Setup ClickHouse'
+description: 'Setup ClickHouse'
 
 runs:
   using: 'docker'
